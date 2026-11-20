@@ -114,7 +114,7 @@ Dashboard zobrazuje naměřené hodnoty virtuálního serveru a dokládá, že Z
 - `Vagrantfile` – definice virtuálního stroje s Debianem 13 a nastavení automatického provisioningu.
 - Instalační skript – přidání oficiálního repozitáře Zabbix 8.0 pro Debian 13 a instalace Zabbix Agent 2.
 - Konfigurační skript – nastavení serveru, aktivních kontrol, jedinečného názvu hosta a metadat pro automatickou registraci.
-- `Images/debian13-zabbix-agent2-hero.png` – tematický obrázek projektu.
+- `Images/ai_obrazek.png` – tematický obrázek projektu.
 - `Images/host.png` – snímek registrovaného hosta v Zabbixu.
 - `Images/monitorovani.png` – snímek funkčního monitoringu a přijímaných dat.
 
