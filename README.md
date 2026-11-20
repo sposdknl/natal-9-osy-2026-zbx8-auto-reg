@@ -1,6 +1,6 @@
 # OSY: automatická registrace Debianu 13 do Zabbixu
 
-![Debian 13 server a Zabbix monitoring](ai obrazek.png)
+![obrazek cici](ai_obrazek.png)
 
 Tato varianta zadání používá box `bento/debian-13` a **Zabbix Agent 2 verze 8.0 LTS** instalovaný z oficiálního repozitáře Zabbix pro Debian 13. Vagrant automaticky spouští instalační a konfigurační skripty. Agent se připojuje k serveru `enceladus.pfsense.cz` a pro automatickou registraci odesílá `HostMetadata=SPOS`.
 
